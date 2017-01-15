@@ -48,14 +48,6 @@ class Params
         texts[] = {"No", "Yes"};
         default = 0;
     };
-    class ace_medical_enableUnconsciousnessAI
-    {
-        title = "AI Unconsciousness Setting";
-        ACE_setting = 1;
-        values[] = {0,1,2};
-        texts[] = {"Instant Death", "50/50", "Always go unconscious first"};
-        default = 0;
-    };
 };
 
 
