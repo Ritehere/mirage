@@ -23,3 +23,5 @@ else
 {
     53 spawn Xeno_fnc_KK_markerEventHandler;
 };
+
+anotherTest = true; 
