@@ -1,13 +1,6 @@
-author = "Xeno";
-onLoadName = "Mission Name";
-onLoadMission = "Short Description";
-loadScreen = "data\ui\loading.jpg";
-
 enableDebugConsole = 1;
 
 respawn = 3;
-respawnDelay = 60; //Respawn ON
-//respawnDelay = 1e10; //Respawn OFF
 respawnTemplates[] = { "MenuPosition", "Spectator", "Wave" };
 respawnOnStart = -1;
 respawnDialog = 0;
