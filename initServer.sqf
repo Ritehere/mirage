@@ -2,7 +2,7 @@
 ["Initialize", [true]] call BIS_fnc_dynamicGroups;
 //Radio Settings
 
-
+//Testing
 //ACE Medical Check
 private _level = false;
 if ((missionNamespace getVariable ["ace_medical_level", 1]) == 2) then
